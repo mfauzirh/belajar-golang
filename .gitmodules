@@ -1,3 +1,4 @@
 [submodule "belajar-golang-dasar"]
 	path = belajar-golang-dasar
 	url = https://github.com/mfauzirh/belajar-golang-dasar.git
+	branch = main

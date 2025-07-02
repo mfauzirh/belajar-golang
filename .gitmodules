@@ -1,6 +1,7 @@
 [submodule "belajar-golang-dasar"]
 	path = belajar-golang-dasar
 	url = https://github.com/mfauzirh/belajar-golang-dasar.git
+	
 [submodule "belajar-go-standard-library"]
 	path = belajar-go-standard-library
 	url = https://github.com/mfauzirh/belajar-go-standard-library.git
